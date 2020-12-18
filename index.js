@@ -12,12 +12,12 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'MASLENT V7'; // jangan di ubah...bila di ubah eror.      BOT BY MASLENT 
-const instagramlu = 'https://instagram.com/maslent11'; // jangan di ubah...bila di ubah eror
-const whatsapplu = 'wa/me +628165466368'; // jangan di ubah...bila di ubah eror
+const BotName = 'ZERO BOT'; // jangan di ubah...bila di ubah eror.      BOT BY MASLENT 
+const instagramlu = 'https://instagram.com/zanganzz_'; // jangan di ubah...bila di ubah eror
+const whatsapplu = 'wa/me +6285340827717'; // jangan di ubah...bila di ubah eror
 const kapanbotaktif = 'serahku'; // jangan di ubah...bila di ubah eror
-const grupch1 = 'https://chat.whatsapp.com/E8VriS0ojj53PX5wkhPYaD'; // jangan di ubah...bila di ubah eror
-const grupch2 = 'https://chat.whatsapp.com/E8VriS0ojj53PX5wkhPYaD'; // jangan di ubah...bila di ubah eror
+const grupch1 = 'Kagak ada'; // jangan di ubah...bila di ubah eror
+const grupch2 = 'Kagak ada'; // jangan di ubah...bila di ubah eror
 //
 const
 {
